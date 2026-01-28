@@ -5,30 +5,51 @@
 
 ---
 
-## 🚀 About Me
-I enjoy working with data and building intelligent systems using machine learning.
-I like turning raw data into insights through analysis, visualization, and models.
-Currently focused on strengthening my ML, NLP, and deep learning skills through hands-on projects.
+  ## 🚀 About Me  
+
+I’m a passionate and curious Data Science enthusiast from India, with a strong interest in turning raw data into meaningful insights.  
+I enjoy working at the intersection of analytics, machine learning, and intelligent systems. Whether it’s building predictive models, creating dashboards, or exploring NLP and Computer Vision, I love solving real-world problems through data.
+
+- 🧠 **Interests:** Data Science, Machine Learning, NLP, Computer Vision, Deep Learning  
+- 💡 **Passions:** Building projects, Data Visualization, Exploring AI-driven solutions  
+- 📌 **Philosophy:** “Consistency and curiosity will always lead to growth.”  
+- ✨ **Aesthetic:** I like keeping my work clean, minimal, and impactful.  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming & Data
-- Python, SQL  
-- Pandas, NumPy  
-
-### 📊 Visualization & BI
-- Matplotlib, Seaborn  
-- Tableau, Power BI  
-
-### 🤖 Machine Learning & AI
-- Machine Learning (Scikit-learn)  
-- NLP  
-- Deep Learning  
-- OpenCV  
+### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
+
+### 📊 Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge)
+
+---
+
+### 🤖 Machine Learning & AI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
+
+---
+
+### 👁 Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv)
+
+---
+
+### 📌 BI Tools
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+
 
 ## 📌 Projects
 - 📈 Data Analysis & Visualization projects  
@@ -47,7 +68,9 @@ Currently focused on strengthening my ML, NLP, and deep learning skills through 
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-green)
-![Student](https://img.shields.io/badge/Role-Student-orange)
+![NLP](https://img.shields.io/badge/NLP-purple)
+![OpenCV](https://img.shields.io/badge/OpenCV-red)
+![DeepLearning](https://img.shields.io/badge/Deep%20Learning-yellow)
 
 ## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com) | 📧  [Email](shabasmohmd77@gmail.com)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mohammed-shabas-4b3282296/)) | 📧  [Email](shabasmohmd77@gmail.com)
