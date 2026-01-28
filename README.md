@@ -1,7 +1,14 @@
-# Hi, I'm Shabas 👋  
+<h1 align="center">Hello World! I'm Mohammed Shabas C S👋</h1>
 
-📊 Data Science & Machine Learning Enthusiast  
-📍 India | 🎓 Computer Science  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;NLP+%26+Computer+Vision+Explorer;Deep+Learning+Enthusiast" />
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20India-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓%20Computer%20Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-orange?style=for-the-badge" />
+</p>
 
 ---
 
@@ -66,11 +73,5 @@ I enjoy working at the intersection of analytics, machine learning, and intellig
 
 ---
 
-![Python](https://img.shields.io/badge/Python-blue)
-![ML](https://img.shields.io/badge/Machine%20Learning-green)
-![NLP](https://img.shields.io/badge/NLP-purple)
-![OpenCV](https://img.shields.io/badge/OpenCV-red)
-![DeepLearning](https://img.shields.io/badge/Deep%20Learning-yellow)
-
 ## 🌐 Connect With Me
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mohammed-shabas-4b3282296/)) | 📧  [Email](shabasmohmd77@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammed-shabas-4b3282296/) | 📧  [Email](shabasmohmd77@gmail.com)
