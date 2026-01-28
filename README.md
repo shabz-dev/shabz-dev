@@ -45,5 +45,9 @@ Currently focused on strengthening my ML, NLP, and deep learning skills through 
 
 ---
 
+![Python](https://img.shields.io/badge/Python-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-green)
+![Student](https://img.shields.io/badge/Role-Student-orange)
+
 ## 🌐 Connect With Me
 [LinkedIn](https://linkedin.com) | 📧  [Email](shabasmohmd77@gmail.com)
