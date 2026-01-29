@@ -29,7 +29,6 @@ I enjoy working at the intersection of analytics, machine learning, and intellig
 ### 💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
